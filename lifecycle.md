@@ -19,12 +19,12 @@ import React, { Component } from "react";
 
 class Mentor extends Component {
   componentDidUpdate() {
-    console.log("Logan saved the day!");
+    console.log("Dwight saved the day!");
   }
   render() {
     return (
       <div>
-        <h1>Logan Mace</h1>
+        <h1>Dwight Schrute</h1>
         <h2>{this.props.questions.length}</h2>
         <h3>questions to answer</h3>
         <button onClick={this.props.answerQuestion}>Answer a question!</button>
@@ -38,4 +38,4 @@ class Mentor extends Component {
 
 Try these on your own, but work together if you start to get stuck.
 
-5.  Update the `Mentor` component above so that the message that is currently being console.log'd is displayed below the number of questions answered instead.
+5.  Update the `Mentor` component above so that the message that is currently being console.log'd is displayed below the number of questions to answer instead.
