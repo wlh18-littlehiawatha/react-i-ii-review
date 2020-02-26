@@ -6,7 +6,7 @@ Answer these on your own, then compare answers as a group
 
 2.  How do you pass props from a parent to a child?
 
-3.  How do you access props from a class based child component?
+3.  How do you access props from a class-based child component?
 
 4.  How do you access props from a functional component?
 

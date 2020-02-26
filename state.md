@@ -32,7 +32,7 @@ class LeadMentor extends Component {
   }
   render() {
     <div className="lead-mentor-container">
-      <h1>Tim Biles</h1>
+      <h1>Michael Scott</h1>
       <h3>{this.state.questionsAnswered}</h3>
       <h3>questions answered today</h3>
       <button onClick={this.handleClick}>Increase Answers</button>
