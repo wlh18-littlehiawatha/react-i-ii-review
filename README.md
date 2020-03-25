@@ -5,7 +5,7 @@ In this project, we will work in small groups to review several React concepts. 
 
 # Component Lifecycle Slides from Lecture
 
-https://slides.com/matias_perez/react-three
+https://slides.com/dmweb/react-3#/
 
 # Student Learning Objectives
 
