@@ -3,17 +3,28 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is React?
+      React is a javascript library that also pushes the border of a framwork.
+      a javascript library that can be used to build user interfaces???
 
 2.  What is create-react-app?
+      a ________ that generates the boiler plate for a basic react _______
+
 
 3.  What is Component Based Architecture?
+      a plug and play sytem that allows for the easy reutilization of code blocks
 
 4.  What is JSX?
+      javascript that allows elements of html to be coded inside
 
 5.  What is the virtual DOM?
+      it is a virtual representation of the document object module that stands in between what is shown on your screen and the code. it looks for changes and then allows for just that component to be rerendered. This improves overall responsiveness and efficiency. 
+
+      light weight copy of the dom  that listens for changes
 
 6.  What is unidirectional (one-way) data flow?
+      a concept whereby data flows in only one direction. In the case of React, data only flows down to the lowest most child and events are based back up.
 
+      
 ### Understand
 
 Discuss these questions in pairs if you have a 4-person group

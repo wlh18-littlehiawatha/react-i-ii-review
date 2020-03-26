@@ -3,10 +3,13 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is state?
+      the current status of what is being displayed???
 
 2.  Where do you set initial state?
+      In the constructor function of a class
 
 3.  What method do you use to update state?
+      State is immutable so one has to use setState to modify state
 
 ### Understand
 
